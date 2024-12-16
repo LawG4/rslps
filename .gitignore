@@ -1,0 +1,6 @@
+# Cargo files
+/target
+Cargo.lock
+
+# Just testing files I use
+*.arc
